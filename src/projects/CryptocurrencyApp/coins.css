@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Recursive&display=swap");
+
+.coins_search {
+  font-size: large;
+  border: 1px solid #eeeeee;
+  padding: 5px;
+  border-radius: 3px;
+  display: block;
+  margin: 5px auto;
+}
+
+.coins_search:focus {
+  outline: none;
+  border-color: #719ece;
+  box-shadow: 0 0 10px rgb(151, 105, 105);
+}
+.coins_head {
+  background-color: rgb(172, 167, 167);
+  padding: 10px;
+  color: rgb(22, 22, 21) !important;
+  font-weight: 800;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+
+.quiz_wc{
+margin:0;
+padding:0;
+font-size:20px;
+box-sizing:border-box;
+background-color: #EDC7B7;
+    margin-top: 100px;
+    text-align: center;
+    line-height: 20px;
+    cursor:none;
+}
+.quiz_wcheader{
+    font-weight: 800 !important;
+        font-size: 20px !important;
+        margin-bottom: 10px;
+}
+.quiz_category{
+    font-size:12px;
+}
+
+.quiz{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+}
+.subtitle{
+    font-size:25px;
+    border:1px solid black;
+    box-shadow:4px 4px 2px black;
+    padding:5px 10px;
+    cursor:none;
+}
+.quizinfo{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width:100%;
+    text-transform: uppercase;
+    margin:20px;
+}

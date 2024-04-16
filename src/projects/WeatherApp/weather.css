@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+
+.weather_main{
+    width:70%;
+    border-radius:20px;
+    /* background-color:#01579b; */
+    background-color: #eb7988;
+    margin:0 auto;
+    margin-top:100px;
+}
+.weather_header{
+    /* background-color: #424242; */
+    background-color: #972433;
+        color: whitesmoke;
+        font-size:20px;
+        padding:10px;
+        text-align:center;
+        font-weight:bold;
+}
+.flex{
+    display:flex;
+    justify-content: space-between;
+}
+.day{
+    padding: 15px;
+        color: whitesmoke;
+        font-family: 'Recursive', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+}
+
+.temp{
+    padding: 15px;
+        color: whitesmoke;
+        font-family: 'Recursive', sans-serif;
+        font-size: 18px;
+        
+}
+.weather_riseset{
+    padding: 15px;
+        color: whitesmoke;
+        font-family: 'Recursive', sans-serif;
+        font-size: 18px;
+        
+}
+.weather_input{
+font-size: large;
+    border: 1px solid #EEEEEE;
+    padding: 5px;
+    border-radius: 3px;
+    display: block;
+    margin: 5px auto;
+}
+.weather_input:focus{
+    outline: none;
+        border-color: #719ECE;
+        box-shadow: 0 0 10px rgb(50, 100, 153);
+}

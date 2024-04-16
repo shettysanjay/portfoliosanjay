@@ -1,0 +1,24 @@
+.ss_info{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-image:url("../../assets/bgimg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:"100%";
+    height:100vh;
+   
+}
+
+.ss_box{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.ss_text{
+    font-weight:600;
+    margin:10px 10px 10px 10px;
+}
+.ss_text_visible{
+    display: none;
+}
