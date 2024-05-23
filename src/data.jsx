@@ -138,7 +138,12 @@ export const stats = [
   {
     id: 3,
     no: "2+",
-    title: "Web Developer <br /> Experience",
+    title: "Frontend developer <br /> Experience",
+  },
+  {
+    id: 4,
+    no: "0.7",
+    title: " backend developer<br /> Experience",
   },
 
 ];
@@ -225,7 +230,7 @@ export const resume = [
 export const skills = [
   {
     id: 1,
-    title: "HTML",
+    title: "HTML & CSS",
     percentage: "90",
   },
 
@@ -237,41 +242,42 @@ export const skills = [
 
   {
     id: 3,
-    title: "CSS",
-    percentage: "92",
+    title: "React.Js",
+    percentage: "84",
   },
 
   {
     id: 4,
-    title: "React",
-    percentage: "84",
+    title: "Node.Js",
+    percentage: "60",
+  },
+
+  {
+    id: 5,
+    title: "Docker",
+    percentage: "55",
+  },
+
+  {
+    id: 6,
+    title: "Kubernetes",
+    percentage: "55",
+  },
+
+  {
+    id: 7,
+    title: "Jenkins",
+    percentage: "55",
+  },
+
+  {
+    id: 8,
+    title: "AWS",
+    percentage: "55",
   },
 ];
 
 export const portfolio = [
-  // {
-  //   id: 1,
-  //   img: Work9,
-  //   title: "Shopping Cart",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Shopping cart",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React,Firebase,HTML,CSS",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "https://clone-6dd40.web.app/",
-  //     },
-  //   ],
-  // },
   {
     id: 3,
     img: Work1,
@@ -296,147 +302,6 @@ export const portfolio = [
     ],
   },
 
-  // {
-  //   id: 4,
-  //   img: Work2,
-  //   title: "Cryptocurrency",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Cryptocurrency",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS,HTML,Material UI",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "/crypto",
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 5,
-  //   img: Work3,
-  //   title: "Pokemon",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Pokemon",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS,HTML,CSS",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "/pokemon",
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 6,
-  //   img: Work4,
-  //   title: "Random Quotes",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Random Quotes",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "/quotes",
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 7,
-  //   img: Work5,
-  //   title: "Password Generator",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Password Generator",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS",
-  //     },
-  //     {
-  //       title: "Preview : ",
-  //       desc: "/pwdgen",
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 8,
-  //   img: Work6,
-  //   title: "Weather Forecast",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Weather Forecast",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "/weather",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 9,
-  //   img: Work7,
-  //   title: "Quiz",
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: "Project : ",
-  //       desc: "Quiz",
-  //     },
-
-  //     {
-  //       icon: <FaCode />,
-  //       title: "Language : ",
-  //       desc: "React JS",
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: "Preview : ",
-  //       desc: "/quiz",
-  //     },
-  //   ],
-  // },
   {
     id: 10,
     img: Work8,
