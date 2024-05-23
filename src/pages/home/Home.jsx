@@ -14,9 +14,19 @@ const Home = () => {
             <span>I'm Sanjay Shetty</span>, a Software Developer
           </h1>
           <p className="home__description">
-            I'm a front end developer focused on crafting clean and user
-            friendly experiences, I am passionate about building excellent
-            software that improves the lives of thousands around me.
+            I'm a full stack developer focused on crafting clean and user
+            friendly experiences. Dedicated and skilled JavaScript developer with 2+ years of professional
+            experience in frontend development using React.js 
+            <br />
+            And 7 months
+            of experience in backend development 
+            I possess foundational knowledge and partial proficiency in Node.js,
+             with the ability to create basic applications and understand key concepts.
+            <br /><br />
+             I have completed comprehensive training in Docker, Git, Github,Kubernetes, Jenkins & AWS 
+            equipping me with a solid understanding of their principles and functionalities.
+             While I haven't yet applied this knowledge in practical projects, I am eager 
+             to leverage my skills to contribute effectively in relevant environments.
           </p>
           <Link to="/about" className="button">More About Me <span className="button__icon"><FaArrowRight/></span></Link>
         </div>
