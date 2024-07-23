@@ -137,12 +137,12 @@ export const stats = [
 
   {
     id: 3,
-    no: "2years 3 months",
+    no: "2.3",
     title: "Frontend developer <br /> Experience",
   },
   {
     id: 4,
-    no: "-1 years",
+    no: "-1",
     title: " backend developer<br /> Experience",
   },
 
