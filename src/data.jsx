@@ -131,18 +131,18 @@ export const stats = [
 
   {
     id: 2,
-    no: "5+",
+    no: "4+",
     title: "Structural Engineer as Tekla Modeler <br /> Experience",
   },
 
   {
     id: 3,
-    no: "2.3",
+    no: "2.10",
     title: "Frontend developer <br /> Experience",
   },
   {
     id: 4,
-    no: "-1",
+    no: "1.3",
     title: " backend developer<br /> Experience",
   },
 
@@ -169,10 +169,10 @@ export const resume = [
     category: "experience",
     icon: <FaBriefcase />,
     year: "Feb 2022 - Oct 2023",
-    title: "Software Developer and Tekla Modeler <span> sanria engineering and consulting pvt ltd. </span>",
+    title: "Software Developer  <span> sanria engineering and consulting pvt ltd. </span>",
     desc:
       <div>
-        Started as a software engineer at the firm and underwent training React Js & JavaScript. As a front-end developer and along with Tekla modeler, I excel in React.js and JavaScript for crafting interactive user interfaces and single-page applications. Leveraging components, state management, and modern ES6+ features, I create dynamic and reusable UI components to enhance code readability. My expertise extends to React Router and Redux for client-side routing, global state management, and scalability.I deliver high-quality software solutions in React, JS, and frontend development. 
+        Started as a software engineer at the firm and underwent training React Js & JavaScript. As a front-end developer , I excel in React.js and JavaScript for crafting interactive user interfaces and single-page applications. Leveraging components, state management, and modern ES6+ features, I create dynamic and reusable UI components to enhance code readability. My expertise extends to React Router and Redux for client-side routing, global state management, and scalability.I deliver high-quality software solutions in React, JS, and frontend development. 
         <br />
         Project worked as Developer: Virtuele
       </div>
