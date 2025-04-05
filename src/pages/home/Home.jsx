@@ -15,10 +15,10 @@ const Home = () => {
           </h1>
           <p className="home__description">
             I'm a full stack developer focused on crafting clean and user
-            friendly experiences. Dedicated and skilled JavaScript developer with 2 years 3 month of professional
+            friendly experiences. Dedicated and skilled JavaScript developer with 2 years 10 month of professional
             experience in frontend development using React.js 
             <br />
-            And -1 years
+            And 1.3 years
             of experience in backend development 
             I possess foundational knowledge and partial proficiency in Node.js,
              with the ability to create basic applications and understand key concepts.
